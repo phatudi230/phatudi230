@@ -2,7 +2,7 @@
 - 👀 I’m interested in cybersecurity and software development
 - 🌱 I’m currently learning java programming language
 - 💞️ I’m looking to collaborate on cybersecurity
-- 📫 How to reach me email:phatudimodiba12@gmail.com,whatsapp:0693370362
+- 📫 How to reach me email:phatudimodiba12@gmail.com,whatsapp:0693370362,LinkedIn:https://www.linkedin.com/in/phatudi-daniel-modiba-6bb168308/
 - 😄 Pronouns: he/him
 
 
