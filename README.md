@@ -11,7 +11,7 @@ that save time, reduce costs and improve experiences.
 
 ---
 
-## 🔧 What I Work With
+##  What I Work With
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -21,40 +21,40 @@ that save time, reduce costs and improve experiences.
 
 ---
 
-## 🚀 What I've Built
+##  What I've Built
 
-🏛️ **Institutional Policy Gap Analysis** — Audited TUT 
+ **Institutional Policy Gap Analysis** — Audited TUT 
 residence rules, identified a compliance gap and authored 
 a formal proposal that successfully achieved policy change 
 at institutional level. Real world. Real outcome.
 
-🛒 **Campus Student Marketplace** — Conducted stakeholder 
+ **Campus Student Marketplace** — Conducted stakeholder 
 research, mapped AS-IS purchase journey and designed 
 Student Online Mall — a centralized campus commerce 
 solution eliminating payment friction and scheduling 
 conflicts.
 
-📊 **Customer Churn Prediction** — Built and compared 
+ **Customer Churn Prediction** — Built and compared 
 Logistic Regression and Random Forest models with SMOTE 
 oversampling, threshold tuning and a custom risk scoring 
 function producing actionable business recommendations.
 
-📈 **Retail Sales Dashboard** — Built interactive Power BI 
+ **Retail Sales Dashboard** — Built interactive Power BI 
 dashboard tracking KPIs with SQL customer segmentation 
 and profitability analysis.
 
 ---
 
-## 🎯 Currently
+##  Currently
 
-- 📚 3rd Year Informatics @ Tshwane University of Technology
-- 🔍 Actively seeking WIL placement in Data or Business Analysis
-- 🌱 Building my BA case study portfolio
+-  3rd Year Informatics @ Tshwane University of Technology
+-  Actively seeking WIL placement in Data or Business Analysis
+-  Building my BA case study portfolio
 
 ---
 
 ## 📬 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/phatudi-daniel-modiba)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white)](your-portfolio-link)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white)](https://phatudi230.github.io/Phatudi_Portfolio/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:phatudimodiba12@gmail.com)
